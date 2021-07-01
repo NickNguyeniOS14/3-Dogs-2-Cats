@@ -13,3 +13,6 @@ An iOS app to view photo of dogs and cats.
 
 
 
+# Requirements:
+  - Xcode 12+
+  - iOS 13+
