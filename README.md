@@ -1,5 +1,5 @@
 # 3-Dogs-2-Cats
-An iOS app to view photo of dogs or cats.
+An iOS app to view photo of dogs and cats.
 
 # Technologies:
   - Swift
@@ -7,6 +7,8 @@ An iOS app to view photo of dogs or cats.
   - FileManager
   - SPM
   - JSON
+  - Core Image
+  
 # Screenshots:
 
 
